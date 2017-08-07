@@ -20,6 +20,7 @@ RUN apk upgrade -U && \
     php7-ctype \
     php7-opcache \
     php7-mbstring \
+    php7-redis \
     php7-session \
     php7-pcntl
 
